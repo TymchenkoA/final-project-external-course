@@ -1,0 +1,117 @@
+.b-container__header {
+    border-bottom: 5px solid #bab8b8;
+	background: #ffffff;
+}
+.b-reservation {
+    font-size: 10px;
+}	
+.b-reservation__header {
+    font-size: 3em;
+}	
+.b-form {
+    font-size: 2em;
+}	
+.b-form__label {
+	display: block;
+}
+.b-form__textfield{
+	border: 1px solid #abaaaa;
+}
+.b-search{
+	background: #fff;
+	border: 1px solid #abaaaa;
+}
+.b-main__arrow {
+    background: #cbc9c9 url("../images/design/arrow-down.png") no-repeat center center;
+}
+.b-main__arrow:hover {
+    background: #abaaaa url("../images/design/arrow-down.png") no-repeat center center;
+}
+.b-content{
+	font-size: 14px;
+	border: 1px solid #abaaaa;
+	padding: 10px;
+}
+.b-content__header {
+    font-size: 3em;
+ }
+.b-content__title {
+    font-size: 1.2em;
+}
+.b-content__subheader {
+    font-size: 1.7em;
+}
+.b-content__text {
+    font-size: 1.5em;
+}
+.b-container__section_offer{
+	min-height: 550px;
+}
+.b-container__section_part {   
+    min-height: 550px;
+}
+.b-section {
+    font-size: 14px;
+}
+.b-section__header{
+    font-size: 3em;
+}
+.b-section__article {
+    font-size: 1.5em;
+}
+.b-section__link {    
+    font-size: 1.3em;    
+}
+.b-section__link:hover {
+    background-color: #9d9b9b;
+}
+.b-gallery {
+	font-size: 14px;
+}
+.b-gallery__header {
+    font-size: 3em;
+}
+.b-categories{
+	display: table;
+	width: 100%;
+	text-align: left;
+}
+.b-categories__category {
+		display: table-cell;
+}
+.b-category__header{
+	font-size: 2.4em;	
+}
+.b-page {
+	font-size: 14px;
+}
+.b-page__header{
+	font-size: 3em;
+}
+.b-article{
+	font-size: 14px;
+}
+.b-article__heading {  
+	font-size: 2.6em;
+}
+.b-article__text {
+	font-size: 1.5em;
+}
+.b-container__contacts {
+	background: #abaaaa;
+}
+.b-contact {
+	font-size: 14px;
+}
+.b-contact__header {
+    font-size: 3em;
+}
+.b-contact__info {
+    font-size: 1.5em;
+}	
+.b-top {
+    background: #cbc9c9 url("../images/design/arrow-up.png") no-repeat scroll center center;
+}
+.b-top:hover {
+    background: #abaaaa url("../images/design/arrow-up.png") no-repeat scroll center center;
+}
